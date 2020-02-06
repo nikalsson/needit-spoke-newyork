@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Input a number and return the date that many days ago.
+</description>
+        <internal_name>get_days_ago_date</internal_name>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Days Ago Date</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:25:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>696c3e61dbb20010a278dde748961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Days Ago Date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_442783_needit_sp">df51f621db720010a278dde748961923</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">df51f621db720010a278dde748961923</sys_scope>
+        <sys_update_name>sys_hub_flow_696c3e61dbb20010a278dde748961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:25:08</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=696c3e61dbb20010a278dde748961964"/>
+    <sys_variable_value action="DELETE" query="document_key=696c3e61dbb20010a278dde748961964"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=696c3e61dbb20010a278dde748961964^sys_idNOT IN296c7e61dbb20010a278dde7489619cf"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>696c3e61dbb20010a278dde748961964</id>
+        <name>Get Days Ago Date</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:25:08</sys_created_on>
+        <sys_id>296c7e61dbb20010a278dde7489619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:25:08</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Spoke">df51f621db720010a278dde748961923</application>
+        <file_path/>
+        <instance_id>62cbbd34db13d7001ddcf22ebf96197b</instance_id>
+        <instance_name>dev64363</instance_name>
+        <name>sys_hub_flow_696c3e61dbb20010a278dde748961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><copied_from/><copied_from_name/><description>Input a number and return the date that many days ago.
+</description><internal_name>get_days_ago_date</internal_name><label_cache>null</label_cache><latest_snapshot/><master_snapshot/><name>Get Days Ago Date</name><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:25:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>696c3e61dbb20010a278dde748961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Get Days Ago Date</sys_name><sys_overrides/><sys_package display_value="NeedIt Spoke" source="x_442783_needit_sp">df51f621db720010a278dde748961923</sys_package><sys_policy/><sys_scope display_value="NeedIt Spoke">df51f621db720010a278dde748961923</sys_scope><sys_update_name>sys_hub_flow_696c3e61dbb20010a278dde748961964</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:25:08</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=696c3e61dbb20010a278dde748961964"/><sys_variable_value action="delete_multiple" query="document_key=696c3e61dbb20010a278dde748961964"/><sys_flow_cat_variable_model action="delete_multiple" query="id=696c3e61dbb20010a278dde748961964^sys_idNOT IN296c7e61dbb20010a278dde7489619cf"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>696c3e61dbb20010a278dde748961964</id><name>Get Days Ago Date</name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:25:08</sys_created_on><sys_id>296c7e61dbb20010a278dde7489619cf</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:25:08</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>-582105758</payload_hash>
+        <record_name>Get Days Ago Date</record_name>
+        <reverted_from/>
+        <source>1351f621db720010a278dde748961927</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:25:08</sys_created_on>
+        <sys_id>656c7e61dbb20010a278dde7489619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17019d13e970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:25:08</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>ad6c7e61b8b20010c048e76361f2b3d6</update_guid>
+        <update_guid_history>ad6c7e61b8b20010c048e76361f2b3d6:-582105758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:25:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>6de6b2ad512d48e0b6fa6cc501b66400</sys_id>
+        <sys_metadata>696c3e61dbb20010a278dde748961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Days Ago Date</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_442783_needit_sp">df51f621db720010a278dde748961923</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">df51f621db720010a278dde748961923</sys_scope>
+        <sys_scope_delete display_value="">0b946b86b2d14dbe96d66a33012170c4</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_696c3e61dbb20010a278dde748961964</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_696c3e61dbb20010a278dde748961964">656c7e61dbb20010a278dde7489619d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:25:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
